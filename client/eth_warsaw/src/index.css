@@ -43,7 +43,19 @@ body {
   overflow: hidden;
 }
 
-a, p, h1, h2, h3, h4, h5, h6, ul, li, button, input, textarea {
+a,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+button,
+input,
+textarea {
   color: var(--dark);
   text-decoration: none;
 }
@@ -53,7 +65,8 @@ h1 {
   font-weight: 700;
 }
 
-ul, li {
+ul,
+li {
   list-style: none;
 }
 
@@ -186,7 +199,8 @@ nav ul li i {
 }
 
 .width-25 {
-  width: 20%;
+  width: 30%;
+  margin-bottom: 10rem;
 }
 
 .width-75 {
